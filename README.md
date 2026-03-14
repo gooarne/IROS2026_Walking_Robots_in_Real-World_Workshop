@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>IROS 2026 Workshop</title>
+  IROS 2026 Workshop
 </head>
 <body>
 
